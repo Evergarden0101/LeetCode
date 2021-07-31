@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88c668cc-d64d-4b7f-94a4-bcf87d83b9ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1vqSDmcB4LlTTfL4weLk3hGo1l5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager" selected="Application.VerticalOrderTraversalOfABinaryTree987">
+    <configuration name="DelNumHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.DelNumHW" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignLinkedList707" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.DesignLinkedList707" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelSheetColumnNumber171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnNumber171" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwapNodesInPairs24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.SwapNodesInPairs24" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerticalOrderTraversalOfABinaryTree987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.VerticalOrderTraversalOfABinaryTree987" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VerticalOrderTraversalOfABinaryTree987" />
+        <item itemvalue="Application.ExcelSheetColumnNumber171" />
+        <item itemvalue="Application.DesignLinkedList707" />
+        <item itemvalue="Application.SwapNodesInPairs24" />
+        <item itemvalue="Application.DelNumHW" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c668cc-d64d-4b7f-94a4-bcf87d83b9ab" name="Default Changelist" comment="" />
+      <created>1627288012476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627288012476</updated>
+      <workItem from="1627288021856" duration="10336000" />
+      <workItem from="1627309322522" duration="4612000" />
+      <workItem from="1627372055082" duration="1197000" />
+      <workItem from="1627488812452" duration="256000" />
+      <workItem from="1627489724482" duration="3267000" />
+      <workItem from="1627527548371" duration="15383000" />
+      <workItem from="1627578689700" duration="114000" />
+      <workItem from="1627629021299" duration="13176000" />
+      <workItem from="1627704296319" duration="6987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1627291622293">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1627291622293" />
+    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1627578510394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1627578510394" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1627557531407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627557531407" />
+    <state width="477" height="670" key="GridCell.Tab.0.bottom" timestamp="1627712643406">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627712643406" />
+    <state width="477" height="670" key="GridCell.Tab.0.center" timestamp="1627712643405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
+    <state width="477" height="670" key="GridCell.Tab.0.left" timestamp="1627712643405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
+    <state width="477" height="670" key="GridCell.Tab.0.right" timestamp="1627712643405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
+    <state x="248" y="0" key="SettingsEditor" timestamp="1627558980219">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="248" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627558980219" />
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1627704918675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627704918675" />
+    <state x="177" y="17" key="new project wizard" timestamp="1627302865050">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="177" y="17" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1627302865050" />
+  </component>
+</project>
