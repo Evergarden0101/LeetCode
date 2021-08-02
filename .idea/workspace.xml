@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88c668cc-d64d-4b7f-94a4-bcf87d83b9ab" name="Default Changelist" comment="" />
+    <list default="true" id="88c668cc-d64d-4b7f-94a4-bcf87d83b9ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HW/GoodFriendHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HJ67_24Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/MonkeyClimbHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/WordPuzzleHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/CircularGameWinner1823.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MinStack151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MinimumRemovetoMakeValidParentheses1249.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/NetworkDelayTime743.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/ReorderList143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/SortedArray2BinarySearchTree108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/TheKWeakestRowsInAMatrix1337.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +41,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Yifan Jiang &lt;jimmyjiang1999@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1vqSDmcB4LlTTfL4weLk3hGo1l5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -47,18 +71,25 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Application.VerticalOrderTraversalOfABinaryTree987">
-    <configuration name="DelNumHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.DelNumHW" />
+  <component name="RunManager" selected="Application.MinStack151">
+    <configuration name="GoodFriendHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.GoodFriendHW" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignLinkedList707" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.DesignLinkedList707" />
+    <configuration name="MinStack151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.MinStack151" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelSheetColumnNumber171" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.ExcelSheetColumnNumber171" />
+    <configuration name="MonkeyClimbHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.MonkeyClimbHW" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkDelayTime743" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.NetworkDelayTime743" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -83,25 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNodesInPairs24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.SwapNodesInPairs24" />
+    <configuration name="WordPuzzleHW" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.WordPuzzleHW" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerticalOrderTraversalOfABinaryTree987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.VerticalOrderTraversalOfABinaryTree987" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.*" />
+          <option name="PATTERN" value="HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VerticalOrderTraversalOfABinaryTree987" />
-        <item itemvalue="Application.ExcelSheetColumnNumber171" />
-        <item itemvalue="Application.DesignLinkedList707" />
-        <item itemvalue="Application.SwapNodesInPairs24" />
-        <item itemvalue="Application.DelNumHW" />
+        <item itemvalue="Application.MinStack151" />
+        <item itemvalue="Application.NetworkDelayTime743" />
+        <item itemvalue="Application.WordPuzzleHW" />
+        <item itemvalue="Application.MonkeyClimbHW" />
+        <item itemvalue="Application.GoodFriendHW" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +168,10 @@
       <workItem from="1627527548371" duration="15383000" />
       <workItem from="1627578689700" duration="114000" />
       <workItem from="1627629021299" duration="13176000" />
-      <workItem from="1627704296319" duration="6987000" />
+      <workItem from="1627704296319" duration="9618000" />
+      <workItem from="1627729863127" duration="3328000" />
+      <workItem from="1627835746775" duration="1122000" />
+      <workItem from="1627897925270" duration="13200000" />
     </task>
     <servers />
   </component>
@@ -149,41 +183,57 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="573" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1627291622293" />
-    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1627578510394">
+    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1627925660524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1627578510394" />
-    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1627557531407">
+    <state x="448" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1627925660524" />
+    <state x="510" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1627926156219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627557531407" />
-    <state width="477" height="670" key="GridCell.Tab.0.bottom" timestamp="1627712643406">
+    <state x="510" y="257" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1627926156219" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1627926121896">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="477" height="670" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627712643406" />
-    <state width="477" height="670" key="GridCell.Tab.0.center" timestamp="1627712643405">
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1627926121896" />
+    <state x="548" y="166" key="FileChooserDialogImpl" timestamp="1627920161580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="477" height="670" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
-    <state width="477" height="670" key="GridCell.Tab.0.left" timestamp="1627712643405">
+    <state x="548" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627920161580" />
+    <state width="477" height="670" key="GridCell.Tab.0.bottom" timestamp="1627920155704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="477" height="670" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
-    <state width="477" height="670" key="GridCell.Tab.0.right" timestamp="1627712643405">
+    <state width="477" height="670" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627920155704" />
+    <state width="477" height="670" key="GridCell.Tab.0.center" timestamp="1627920155704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="477" height="670" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627712643405" />
+    <state width="477" height="670" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627920155704" />
+    <state width="477" height="670" key="GridCell.Tab.0.left" timestamp="1627920155704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627920155704" />
+    <state width="477" height="670" key="GridCell.Tab.0.right" timestamp="1627920155704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="477" height="670" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627920155704" />
     <state x="248" y="0" key="SettingsEditor" timestamp="1627558980219">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="248" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627558980219" />
-    <state x="447" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1627704918675">
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1627901293174">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="447" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627704918675" />
+    <state x="447" y="235" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1627901293174" />
+    <state x="561" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627925969860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="328" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1627925969860" />
     <state x="177" y="17" key="new project wizard" timestamp="1627302865050">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="177" y="17" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1627302865050" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1627915128942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1627915128942" />
   </component>
 </project>
